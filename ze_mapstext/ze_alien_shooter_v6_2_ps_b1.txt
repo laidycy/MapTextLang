@@ -2,118 +2,124 @@
 {
 	"** Welcome to ze_Alien Shooter_v6_2 **"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎来到异形游乐园 **"
 	}
 	"** Map made DarkRoad **"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：darkroad 翻译：我不信没用户名 **"
 	}
 	"** Special thanks:Moltard Nostar and Microsoft Edge **"
 	{
-		"chi"		"** **"
+		"chi"		"**特别感谢 Moltard Nostar 还有微软edge浏览器 **"
 	}
 	"** Thanks for the test map: Shiz0 **"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢地图测试者：shiz0 **"
 	}
 	"The player picked up the Ice Materia"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了冰 **"
 	}
 	"***c4 will explode in 25 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**c4将在25秒后爆炸 **"
+		"DoorCountDown" "25"
 	}
 	"The player picked up the Heal Materia"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了奶 **"
 	}
 	"** Attention! an unknown creature!!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**注意！这里有一只异形！！！ **"
 	}
 	"** Attention to the violation of the quarantine laboratory **"
 	{
-		"chi"		"** **"
+		"chi"		"**注意对实验室的违规隔离操作 **"
 	}
 	"The player picked up the Electro Materia"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了电 **"
 	}
 	"The player picked up the Wind Materia"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了风 **"
 	}
 	"The player picked up the Fire Materia"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了火 **"
 	}
 	"** The door opens after 30 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在30秒后打开 **"
+		"DoorCountDown" "30"
 	}
 	">>>[3]<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**3 **"
 	}
 	">>>[2]<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**2 **"
 	}
 	">>>[1]<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**1 **"
 	}
 	">>>The door opens in 25 seconds<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门25秒后打开 **"
+		"DoorCountDown" "25"
 	}
 	">>>The door opens in 5 seconds<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**还有5秒 **"
 	}
 	">>>Door is open<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了 **"
 	}
 	"** Boss Fight in 10s **"
 	{
-		"chi"		"** **"
+		"chi"		"**boss战将于10秒后开始，守住大门 **"
+		"DoorCountDown" "10"
 	}
 	"** Boss Fight in 5s **"
 	{
-		"chi"		"** **"
+		"chi"		"**boss战将于5秒后开始，别放僵尸进来 **"
 	}
 	"** Nades do more damage (2s) **"
 	{
-		"chi"		"** **"
+		"chi"		"**异形开始出招了 **"
 	}
 	">>>The boss died!<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**异形挂了 **"
 	}
 	">>>The door opens in 20 seconds<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在20秒后打开 **"
+		"DoorCountDown" "20"
 	}
 	">>>The teleporter is activated after 20 seconds<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**传送门将在20秒后激活 **"
+		"DoorCountDown" "20"
 	}
 	">>>Teleport works!<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**传送门好了 **"
 	}
 	">>>The helicopter flies to you! hold on!!!<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**直升机要降落了！守住 **"
 	}
 	"Thank you for playing!"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢你的游玩 **"
 	}
 	">>>Map made : DarkRoad<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：darkroad 翻译：我不信没用户名 **"
 	}
 }
