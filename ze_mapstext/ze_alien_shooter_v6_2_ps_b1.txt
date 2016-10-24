@@ -90,7 +90,7 @@
 	}
 	"** Nades do more damage (2s) **"
 	{
-		"chi"		"**异形开始出招了 **"
+		"chi"		"**2S内高爆将造成更多伤害 **"
 	}
 	">>>The boss died!<<<"
 	{
